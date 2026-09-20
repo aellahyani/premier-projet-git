@@ -1,3 +1,8 @@
 print("welcom to the Devops training")
 print("Current topic : Git")
-print("changed to be removed")
+
+def display_greeting():
+	print("welcome to the DevOps training")
+	print("current topic: Git branches")
+
+display_greeting()
