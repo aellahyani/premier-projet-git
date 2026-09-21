@@ -1,6 +1,8 @@
 \# GitHub Training
 
+## Repository
 
+This repository is synchronized with GitHub.
 
 This repository is used to practice Git and GitHub.
 
