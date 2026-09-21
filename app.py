@@ -2,7 +2,7 @@ VERSION = "1.2"
 print(f"Application version: {VERSION}")
 
 
-print("current topic: Git and github")
+print("current topic: Git")
 print("welcom to the Devops training")
 print("Current topic : Git")
 
